@@ -1,0 +1,17 @@
+{
+  "announcements": [
+    {
+      "id": "0.1.0",
+      "version": "0.1.0",
+      "title": "Pivot Sports MVP is Live",
+      "items": [
+        "Create teams and invite members with a simple code.",
+        "Start discussions to keep your team connected.",
+        "Create events and track RSVPs in one place.",
+        "Early version — more features and improvements coming soon."
+      ],
+      "button_title": "Let’s go",
+      "enabled": true
+    }
+  ]
+}
