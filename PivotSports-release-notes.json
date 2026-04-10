@@ -1,6 +1,23 @@
 {
   "announcements": [
     {
+      "id": "0.3.0",
+      "version": "0.3.0",
+      "title": "Pivot Sports Update",
+      "items": [
+        "Improved team discussions and comment notifications.",
+        "Event creation and RSVP experience has been refined.",
+        "Performance improvements and UI polish across the app.",
+        "More updates and features coming soon."
+      ],
+      "button_title": "Got it",
+      "enabled": true
+    }
+  ]
+}
+{
+  "announcements": [
+    {
       "id": "0.1.0",
       "version": "0.1.0",
       "title": "Pivot Sports MVP is Live",
@@ -15,3 +32,4 @@
     }
   ]
 }
+
