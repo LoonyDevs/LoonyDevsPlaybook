@@ -1,6 +1,19 @@
 {
   "announcements": [
     {
+  "id": "0.3.1",
+  "version": "0.3.1",
+  "title": "Pivot Sports Update - 0.3.1",
+  "items": [
+    "Added a header section to the Group Home view for a clearer team overview.",
+    "Notification settings UI improvements.",
+    "Better handling of group activity and member interactions.",
+    "UI improvements and better layout support for older iPhones."
+  ],
+  "button_title": "Got it",
+  "enabled": true
+  },
+    {
       "id": "0.3.0",
       "version": "0.3.0",
       "title": "Pivot Sports Update",
