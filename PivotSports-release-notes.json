@@ -1,6 +1,6 @@
 {
   "feature_flags": {
-    "feedback_enabled": true
+    "feedback_enabled": false
   },
   "announcements": [
     {
