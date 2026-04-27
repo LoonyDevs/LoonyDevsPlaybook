@@ -3,6 +3,19 @@
     "feedback_enabled": true
   },
   "announcements": [
+        {
+      "id": "0.3.11",
+      "version": "0.3.11",
+      "title": "Pivot Sports Update - 0.3.11",
+      "items": [
+        "Feedback button added",
+        "Notification settings UI improvements.",
+        "Better handling of group activity and member interactions.",
+        "UI improvements and better layout support for older iPhones."
+      ],
+      "button_title": "Got it",
+      "enabled": true
+    },
     {
       "id": "0.3.1",
       "version": "0.3.1",
