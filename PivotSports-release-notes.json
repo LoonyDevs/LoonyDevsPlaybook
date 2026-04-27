@@ -8,7 +8,7 @@
   "version": "0.3.11",
   "title": "Pivot Sports Update - 0.3.11",
   "items": [
-    "New feedback form (rolling out via feature flags).",
+    "New feedback form",
     "Improved notifications for discussions and pending requests.",
     "Password reset now supported with deep link recovery flow.",
     "Better validation for password reset and account security.",
