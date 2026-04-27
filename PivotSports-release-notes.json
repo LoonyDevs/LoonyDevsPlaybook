@@ -14,7 +14,7 @@
     "Better validation for password reset and account security.",
     "Enhanced discussion UI with cleaner, card-based layout.",
     "General improvements to group activity and member interactions.",
-    "UI updates with better support for older iPhones."
+    "Fixed bottom bar on older phones"
   ],
   "button_title": "Got it",
   "enabled": true
