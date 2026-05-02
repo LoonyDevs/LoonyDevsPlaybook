@@ -4,7 +4,7 @@
     "testflight_migration_notice_enabled": true
   },
     "testflight_migration_notice": {
-    "title": "Pivot Sports is moving to the App Store",
+    "title": "Pivot Sports testflight ending soon!",
     "message": "This TestFlight version is ending soon. Please download Pivot Sports from the App Store when it becomes available. TestFlight data may be reset and will not carry over.",
     "button_title": "Got it"
 
