@@ -4,12 +4,26 @@
     "testflight_migration_notice_enabled": true
   },
     "testflight_migration_notice": {
-    "title": "Pivot Sports testflight ending soon!",
+    "title": "TestFlight Ending Soon",
     "message": "This TestFlight version is ending soon. Please download Pivot Sports from the App Store when it becomes available. TestFlight data may be reset and will not carry over.",
     "button_title": "Got it"
 
   },
   "announcements": [
+{
+  "id": "0.4.0",
+  "version": "0.4.0",
+  "title": "Pivot Sports Update!",
+  "items": [
+    "Improved app stability and overall performance.",
+    "Fixed interaction issues on older devices and improved responsiveness.",
+    "Improved discussions, events, and overall team experience.",
+    "Polished UI and smoother navigation experience.",
+    "Final TestFlight update before official App Store release."
+  ],
+  "button_title": "Let’s Go!",
+  "enabled": true
+},
 {
   "id": "0.3.11",
   "version": "0.3.11",
