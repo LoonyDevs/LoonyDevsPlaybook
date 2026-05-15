@@ -10,6 +10,26 @@
 
   },
   "announcements": [
+    {
+  "id": "0.5.0",
+  "version": "0.5.0",
+  "title": "Pivot Sports App Store Release!",
+  "items": [
+    "Official App Store release of Pivot Sports.",
+
+    "Added Sign in with Apple support.",
+    "Added event filtering for practices, matches, meetings, and more.",
+    "Added pull-to-refresh support across Events, Groups, Discussions, Members, and Profile screens.",
+    "Improved discussions, events, notifications, and overall team experience.",
+    "Enhanced login and password flows with visibility toggles and improved validation.",
+    "Updated team settings, member management, and group UI styling.",
+    "Improved dark mode support and responsiveness across devices.",
+    "Fixed interaction and navigation issues on older iPhones.",
+    "General bug fixes, UI polish, and performance improvements."
+  ],
+  "button_title": "Let’s Go!",
+  "enabled": true
+},
 {
   "id": "0.4.0",
   "version": "0.4.0",
