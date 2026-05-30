@@ -11,6 +11,21 @@
   },
   "announcements": [
     {
+  "id": "0.5.1",
+  "version": "0.5.1",
+  "title": "App Improvements",
+  "items": [
+    "Improved empty states for Events and Discussions with helpful next steps.",
+    "Added clearer login, signup, password, and email verification messages.",
+    "Improved invite sharing and onboarding experience.",
+    "Enhanced feedback submission experience and usability.",
+    "Improved dark mode readability across multiple screens.",
+    "Additional bug fixes, UI polish, and performance improvements."
+  ],
+  "button_title": "Awesome!",
+  "enabled": true
+}
+    {
   "id": "0.5.0",
   "version": "0.5.0",
   "title": "Pivot Sports App Store Release!",
