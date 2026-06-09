@@ -10,6 +10,24 @@
 
   },
   "announcements": [
+{
+  "id": "0.6.0",
+  "version": "0.6.0",
+  "title": "A Better Pivot Sports Experience",
+  "items": [
+    "New onboarding experience to help you get started faster.",
+    "Improved account creation and email verification flow.",
+    "Apple Sign-In now provides a smoother profile setup experience.",
+    "Refreshed app design with improved colors, typography, and visual consistency.",
+    "Smoother animations and transitions throughout the app.",
+    "Improved Events, Discussions, and Team Management screens.",
+    "Enhanced dark mode support across the app.",
+    "Improved forms, validation messages, and overall usability.",
+    "Various bug fixes and performance improvements."
+  ],
+  "button_title": "Awesome!",
+  "enabled": true
+},
     {
   "id": "0.5.1",
   "version": "0.5.1",
