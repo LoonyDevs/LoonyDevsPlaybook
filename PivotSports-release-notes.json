@@ -5,7 +5,7 @@
   },
     "testflight_migration_notice": {
     "title": "TestFlight Ending Soon",
-    "message": "This TestFlight version has ended. Please download the app from the app store! ",
+    "message": "This TestFlight version has ended. Please download the app from the app store! https://apps.apple.com/us/app/pivot-sports/id6756797740 ",
     "button_title": "Got it"
 
   },
@@ -16,13 +16,10 @@
   "title": "A Better Pivot Sports Experience",
   "items": [
     "New onboarding experience to help you get started faster.",
-    "Improved account creation and email verification flow.",
-    "Apple Sign-In now provides a smoother profile setup experience.",
     "Refreshed app design with improved colors, typography, and visual consistency.",
     "Smoother animations and transitions throughout the app.",
     "Improved Events, Discussions, and Team Management screens.",
     "Enhanced dark mode support across the app.",
-    "Improved forms, validation messages, and overall usability.",
     "Various bug fixes and performance improvements."
   ],
   "button_title": "Awesome!",
