@@ -9,6 +9,11 @@
     "button_title": "Got it"
 
   },
+    "app_update": {
+    "minimum_supported_version": "0.6.1",
+    "latest_version": "0.6.1"
+  },
+  
   "announcements": [
     {
   "id": "0.6.1",
