@@ -5,11 +5,26 @@
   },
     "testflight_migration_notice": {
     "title": "TestFlight Ending Soon",
-    "message": "This TestFlight version has ended. Please download the app from the app store! https://apps.apple.com/us/app/pivot-sports/id6756797740 ",
+    "message": "This TestFlight version has ended. Please search Pivot Sports on the app store!",
     "button_title": "Got it"
 
   },
   "announcements": [
+    {
+  "id": "0.6.1",
+  "version": "0.6.1",
+  "title": "Making Pivot Sports Better",
+  "items": [
+    "Improved accessibility support across the app.",
+    "More reliable member names and team activity information.",
+    "Better readability with updated typography and text scaling.",
+    "Improved account, group, and team management flows.",
+    "Performance improvements and bug fixes throughout the app.",
+    "Additional UI polish and quality-of-life improvements."
+  ],
+  "button_title": "Awesome!",
+  "enabled": true
+},
 {
   "id": "0.6.0",
   "version": "0.6.0",
